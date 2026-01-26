@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am writing to express my interest in the Full Stack Developer position in your organization. I am a BCA graduate (2025) with strong hands-on knowledge in Python Full Stack Development, including backend and frontend technologies.<br><br>I have experience working with Python, Django, REST APIs, HTML, CSS, JavaScript, SQL, and version control tools like Git/GitHub. I have also completed my internship, where I worked on real-time projects and gained practical development experience.<br><br>I am highly motivated, eager to learn, and excited to start my career as a Full Stack Developer. I would be grateful for an opportunity to contribute my skills
+Enthusiastic Software Developer with solid knowledge of programming fundamentals, data structures, and problem-solving. Skilled in Python, Java, SQL, and object-oriented programming concepts, with hands-on experience in building and maintaining software applications. Actively use GitHub for version control and continuous improvement, with a strong interest in developing efficient and reliable software systems.
 
 
 ## 🌐 Socials:
